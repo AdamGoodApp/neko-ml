@@ -1,2 +1,2 @@
-# neko-ml
+# Neko ML
 Cat facial recognition AI
